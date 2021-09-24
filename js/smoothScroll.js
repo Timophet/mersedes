@@ -1,6 +1,4 @@
-console.log('smooth')
 const linksHead = document.querySelectorAll(".menu-list__link");
-console.dir(linksHead)
 
 const design = document.querySelector(".main__scroll");
 
